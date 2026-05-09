@@ -140,9 +140,9 @@ Os vídeos demonstrativos do projeto estão disponíveis nos links abaixo:
 
 
 ## Documentação Adicional
-- Modelagem
-- Automações
-- Aprendizados
+- [Modelagem](docs/modelagem.md)
+- [Automações](docs/automacoes.md)
+- [Aprendizados](docs/aprendizados.md)
 
 
 ## Principais Aprendizados
